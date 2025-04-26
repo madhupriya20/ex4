@@ -105,6 +105,8 @@ temple.html
 
 
 ## OUTPUT
+<img width="927" alt="map" src="https://github.com/user-attachments/assets/48daf7ac-f9dd-48a9-bd77-ea7ba2300c49" />
+
 
 <img width="960" alt="2025-04-22 (1)" src="https://github.com/user-attachments/assets/ed13b622-53b1-40d6-9f9a-99669efe8bf1" />
 
