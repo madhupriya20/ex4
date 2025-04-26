@@ -27,7 +27,7 @@ Execute the programs and publish them.
 
 ## CODE
 map.html
-'''
+~~~
 <!DOCTYPE html>
 <html>
 <head>
@@ -47,9 +47,9 @@ map.html
 </body>
 </html>
 
-'''
+~~~
 home.html
-```
+~~~
 <!DOCTYPE html>
 <html>
 <head>
@@ -75,9 +75,9 @@ home.html
 </body>
 </html>
 
-```
+~~~
 temple.html
-```
+~~~
 <!DOCTYPE html>
 <html>
 <head>
@@ -101,15 +101,12 @@ temple.html
 </body>
 </html>
 
-```
+~~~
 
 
 ## OUTPUT
-
-![alt text](<../../2025-04-22 (1).png>)
-
-![alt text](<../../2025-04-22 (3).png>)
-
+D:\web3\madhu\2025-04-22 (1).png
+D:\web3\madhu\2025-04-22 (3).png
 
 
 ## RESULT
