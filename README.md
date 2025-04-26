@@ -105,8 +105,10 @@ temple.html
 
 
 ## OUTPUT
-D:\web3\madhu\2025-04-22 (1).png
-D:\web3\madhu\2025-04-22 (3).png
+
+<img width="960" alt="2025-04-22 (1)" src="https://github.com/user-attachments/assets/ed13b622-53b1-40d6-9f9a-99669efe8bf1" />
+
+<img width="960" alt="2025-04-22 (3)" src="https://github.com/user-attachments/assets/1c046b75-b16d-4990-80ea-bac49e130bcd" />
 
 
 ## RESULT
